@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/blur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Black Han Sans', sans-serif;
+    color: white;
+    margin-top: 80px;
+}
+h2 {
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+.imagen{
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.borde{
+    border:5px solid white;
+}
